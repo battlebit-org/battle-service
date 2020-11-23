@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="file:///custom.css">
+<link rel="stylesheet" href="custom.css">
 <div class="danger">
   <p><strong>Danger!</strong> Some text...</p>
 </div>
