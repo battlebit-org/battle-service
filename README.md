@@ -1,3 +1,7 @@
+(setq markdown-css-paths '("custom.css"))
+<div class="danger">
+  <p><strong>Danger!</strong> Some text...</p>
+</div>
 # battle-service project
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
